@@ -110,6 +110,16 @@ a {
     background-size: 21%;
     background-repeat: no-repeat;
 }
+.contadorDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.flecha {
+    margin-top: 10px;
+    width: 50px;
+}
 .stars {
     background-image: url(./assets/stars.gif);
     height: 85vh;
