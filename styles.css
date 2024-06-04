@@ -119,6 +119,7 @@ a {
 .flecha {
     margin-top: 10px;
     width: 50px;
+    height: 35px;
 }
 .stars {
     background-image: url(./assets/stars.gif);
